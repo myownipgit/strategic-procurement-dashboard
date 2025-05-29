@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Dashboard from './components/Dashboard';
+import OriginalDashboard from './components/OriginalDashboard';
 import ChatbotPage from './components/ChatbotPage';
 import './index.css';
 
@@ -12,7 +12,7 @@ function App() {
         return <ChatbotPage />;
       case 'dashboard':
       default:
-        return <Dashboard />;
+        return <OriginalDashboard />;
     }
   };
 
