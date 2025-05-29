@@ -1,9 +1,11 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+# Strategic Procurement Dashboard - Robots.txt
+# https://d3fxj92ydzfq5s.cloudfront.net/robots.txt
 
-# Allow all crawlers
+User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://myownipgit.github.io/strategic-procurement-dashboard/sitemap.xml
+Sitemap: https://d3fxj92ydzfq5s.cloudfront.net/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
