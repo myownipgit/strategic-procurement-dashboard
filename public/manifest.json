@@ -1,7 +1,7 @@
 {
   "short_name": "Procurement Dashboard",
   "name": "Strategic Procurement Dashboard",
-  "description": "Executive procurement analytics dashboard for cost optimization and vendor management",
+  "description": "Executive Strategic Procurement Dashboard - Comprehensive procurement optimization & cost reduction analysis",
   "icons": [
     {
       "src": "favicon.ico",
@@ -21,8 +21,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1565c0",
-  "background_color": "#ffffff",
-  "categories": ["business", "finance", "productivity"],
-  "lang": "en"
+  "theme_color": "#3b82f6",
+  "background_color": "#f9fafb",
+  "categories": ["business", "productivity", "finance"]
 }
